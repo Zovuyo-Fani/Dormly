@@ -1,0 +1,11 @@
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\obj\Debug\net8.0\Dormly.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\obj\Debug\net8.0\Dormly.Shared.AssemblyInfoInputs.cache
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\obj\Debug\net8.0\Dormly.Shared.AssemblyInfo.cs
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\obj\Debug\net8.0\Dormly.Shared.csproj.CoreCompileInputs.cache
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\bin\Debug\net8.0\Dormly.Shared.deps.json
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\bin\Debug\net8.0\Dormly.Shared.dll
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\bin\Debug\net8.0\Dormly.Shared.pdb
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\obj\Debug\net8.0\Dormly.Shared.dll
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\obj\Debug\net8.0\refint\Dormly.Shared.dll
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\obj\Debug\net8.0\Dormly.Shared.pdb
+C:\Users\zovuy\OneDrive\Pictures\Screenshots\0506060392087_Fani_Zovuyo\DORMLY\DORMLY\Dormly.Shared\obj\Debug\net8.0\ref\Dormly.Shared.dll
