@@ -1,0 +1,12 @@
+C:\Projects\DORMLY\Dormly.Shared\bin\Release\net8.0\Dormly.Shared.deps.json
+C:\Projects\DORMLY\Dormly.Shared\bin\Release\net8.0\Dormly.Shared.dll
+C:\Projects\DORMLY\Dormly.Shared\bin\Release\net8.0\Dormly.Shared.pdb
+C:\Projects\DORMLY\Dormly.Shared\obj\Release\net8.0\Dormly.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DORMLY\Dormly.Shared\obj\Release\net8.0\Dormly.Shared.AssemblyInfoInputs.cache
+C:\Projects\DORMLY\Dormly.Shared\obj\Release\net8.0\Dormly.Shared.AssemblyInfo.cs
+C:\Projects\DORMLY\Dormly.Shared\obj\Release\net8.0\Dormly.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\DORMLY\Dormly.Shared\obj\Release\net8.0\Dormly.Shared.sourcelink.json
+C:\Projects\DORMLY\Dormly.Shared\obj\Release\net8.0\Dormly.Shared.dll
+C:\Projects\DORMLY\Dormly.Shared\obj\Release\net8.0\refint\Dormly.Shared.dll
+C:\Projects\DORMLY\Dormly.Shared\obj\Release\net8.0\Dormly.Shared.pdb
+C:\Projects\DORMLY\Dormly.Shared\obj\Release\net8.0\ref\Dormly.Shared.dll
